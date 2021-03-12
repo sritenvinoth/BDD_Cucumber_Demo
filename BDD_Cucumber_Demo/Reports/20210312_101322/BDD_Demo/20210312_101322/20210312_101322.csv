@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+BDD_Demo,Chrome 89.0.4389.82,,,2021-03-12 10:13:29,2021-03-12 10:15:12,1m - 42.961s,PASSED
+,,,,,,,
+Test Cases/ServiceRequestTest,Chrome 89.0.4389.82,,,2021-03-12 10:13:31,2021-03-12 10:15:12,1m - 41.903s,PASSED
+runWithCucumberRunner(RunnerFile),Chrome 89.0.4389.82,,,2021-03-12 10:13:31,2021-03-12 10:15:12,1m - 41.423s,PASSED

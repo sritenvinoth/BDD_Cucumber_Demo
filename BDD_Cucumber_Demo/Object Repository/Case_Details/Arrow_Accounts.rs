@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Arrow_Accounts</name>
+   <tag></tag>
+   <elementGuidId>e93729e0-8767-43d5-a049-4fcff05d618c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='id-770e2a5d-395e-4324-b253-2591e0cd2646-15-subjectid8-subjectid.fieldControl-subject-tree-dropdown-icon-6']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
