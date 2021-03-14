@@ -9,7 +9,7 @@ Scenario Outline: Verify the login with valid credentials
  
  Examples:
  |URL|username|password|
- |https://vtdemoqa.crm4.dynamics.com/main.aspx|demouser@vtonline04.onmicrosoft.com|qnfvi7m85xwnV/zpHQoAzw==|
+ |https://vtonline04.crm4.dynamics.com/main.aspx?appid=3c8180b8-272d-4224-ae9b-0a05707bd8c8|demouser@vtonline04.onmicrosoft.com|qnfvi7m85xwnV/zpHQoAzw==|
  
  Scenario Outline: Select the customer from customer search
  Given Customer in to the home page of VP demo application
