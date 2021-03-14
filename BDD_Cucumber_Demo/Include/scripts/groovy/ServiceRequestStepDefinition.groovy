@@ -47,16 +47,16 @@ class ServiceRequestStepDefinition {
 
 	@Then("Customer should be navigated to the Home Page")
 	public void customer_should_be_navigated_to_the_Home_Page() {
-		WebUI.waitForElementPresent(findTestObject('Page_Apps - Dynamics 365/App_VeriTouch'), 0)
+		WebUI.waitForElementPresent(findTestObject('Page_RM Dashboard - Dynamics 365/Menu_Customer Search'), 0)
 	}
 
 	@Given("Customer in to the home page of VP demo application")
 	public void customer_in_to_the_home_page_of_VP_demo_application() {
-		WebUI.click(findTestObject('Page_Apps - Dynamics 365/App_VeriTouch'))
+		//WebUI.click(findTestObject('Page_Apps - Dynamics 365/App_VeriTouch'))
 		
 		WebUI.delay(5)
 		
-		WebUI.switchToDefaultContent()
+		//WebUI.switchToDefaultContent()
 	}
 
 	@When("Customer click on the Customer search")
